@@ -15,15 +15,6 @@
     # Example of a merge of the PR with the number <PR>
     # - oca refs/pull/<PR>/head
 
-#./odoo-enterprise:
-#  defaults:
-#    depth: $DEPTH_DEFAULT
-#  remotes:
-#    origin: https://concagabriel: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@github.com/odoo/enterprise.git
-#  target: origin $ODOO_VERSION
-#  merges:
-#    - origin $ODOO_VERSION
-
 ./odoo-design-themes:
   defaults:
     depth: $DEPTH_DEFAULT
