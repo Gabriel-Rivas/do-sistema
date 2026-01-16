@@ -1,3 +1,9 @@
 git+https://github.com/OCA/openupgradelib.git@master
 unicodecsv
 unidecode
+jingtrang
+google-auth
+git+https://github.com/aeroo/aeroolib.git
+git+https://github.com/aeroo/currency2text.git
+git+https://github.com/paramiko/paramiko.git
+git+https://github.com/ingadhoc/pyafipws.git@py3k
